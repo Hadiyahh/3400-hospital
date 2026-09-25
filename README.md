@@ -1,10 +1,22 @@
-# COMP-3400 Final Project - Team 7
+# Hospital Management System
 
-| Name          |         Contribution          |
-| ------------- | ----------------------------- |
-| Hadiyah Arif  | Pharmacy & Nurse Code         |
-| Josiah Henson | Hospital Code & SQL Database  |
-| Faria Islam   | Doctor & Patient Code         |
+A command-line hospital management system developed as a team project for COMP-3400.
+
+The application manages core hospital operations including patients, doctors, nurses, pharmacy workflows, and hospital records using C/C++ and SQLite.
+
+## My Contributions
+
+I was responsible for the **Pharmacy** and **Nurse** modules, including the logic and workflows associated with those parts of the system.
+
+## Features
+
+- Patient management
+- Doctor management
+- Nurse management
+- Pharmacy management
+- Hospital record management
+- SQLite-backed persistence
+- Modular C/C++ architecture
 
 ## Build & Run
 
